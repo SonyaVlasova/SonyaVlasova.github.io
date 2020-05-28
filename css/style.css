@@ -5,7 +5,6 @@ html{
 }
 
 body{
-    	background: rgb(174, 147, 194);
     	margin:1% -1% 1% 1%;
     	padding: 1% 1% 1% 1%;
 }
@@ -206,7 +205,7 @@ footer{
 	border-top: 3px white solid;
 	margin:-2% -8.1% -7% -6.7%;
 	padding: 0.5% 0.5% 0.5% 0.5%;
-	background: rgb(36, 30, 53);
+	background: rgb(117, 117, 117);
 	text-align: center;
 }
 
