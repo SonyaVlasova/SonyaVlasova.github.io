@@ -1,11 +1,7 @@
-html{
-	background-image: url("img/fon.png");
-}
-
 body{
 	font-family: Comic Sans MS;
 	color:white;
-        background: rgba(169, 169, 169, 0.3);
+        background: url("img/fon.png");
         margin:1% -1% 1% 1%;
         padding: 1% 1% 1% 1%;
 }
