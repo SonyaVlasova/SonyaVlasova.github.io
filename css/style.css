@@ -1,10 +1,5 @@
 html{
-	background-color: rgb(90, 33, 133);
-	background-attachment: fixed;
-	background-size: 100%;
-	padding:1% 4% 1% 4%;
-	width:1200px;
-        font-size:1.2vw;
+	background-image: url("img/fon.png");
 }
 
 body{
