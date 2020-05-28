@@ -1,9 +1,17 @@
+html{
+	background-attachment: fixed;
+	background-size: 100%;
+	padding:1% 4% 1% 4%;
+    	width:1200px;
+        font-size:1.2vw;
+}
+
 body{
 	font-family: Comic Sans MS;
 	color:white;
-        background: url("img/fon.png");
-        margin:1% -1% 1% 1%;
-        padding: 1% 1% 1% 1%;
+    	background: rgba(169, 169, 169, 0.3);
+    	margin:1% -1% 1% 1%;
+    	padding: 1% 1% 1% 1%;
 }
 
 header{
