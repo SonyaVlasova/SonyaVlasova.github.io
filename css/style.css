@@ -1,5 +1,5 @@
 html{
-	background: url("C:/Users/user/Desktop/img/fon.png");
+	background: url("img/fon.png");
 	background-attachment: fixed;
 	background-size: 100%;
 	padding:1% 4% 1% 4%;
@@ -116,7 +116,7 @@ button{
 
 div.img1{
 	display: inline-block;
-	background: url(C:/Users/user/Desktop/img/sistema.png);
+	background: url(img/sistema.png);
 }
 
 .menu{
